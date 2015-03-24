@@ -1,3 +1,5 @@
+###*Notice: This client is no longer maintained, and will not compile against the current version of Toxcore. If you are looking for a Tox Client, please check the [official downloads page](https://tox.im/downloads).*
+
 # Qt GUI for Tox
 
 [![Build Status](https://travis-ci.org/nurupo/ProjectTox-Qt-GUI.png?branch=master)](https://github.com/nurupo/ProjectTox-Qt-GUI)
